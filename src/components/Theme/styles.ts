@@ -23,9 +23,10 @@ export const Steps = styled.div`
 export const Sidebar = styled.div`
     width: 240px;
     border-right: 1px solid #35195C;
+    padding-left: 20px;
 `;
 
 export const Page = styled.div`
     flex: 1;
-    padding: 40px 0 0 40px;
+    padding: 40px 20px 0 40px;
 `;
